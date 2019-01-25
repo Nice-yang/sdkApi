@@ -1,7 +1,6 @@
 <!-- docs/_sidebar.md -->
-- [概况](/)
-- [历程](zh-cn/module/proce.md)
-- [相册](zh-cn/module/photo.md)
-- [项目](zh-cn/module/project.md)
-- [更新日志](zh-cn/module/refbox.md)
-- [彩蛋](zh-cn/module/easterEgg.md)
+- [构件操作](/)
+- [构件API](zh-cn/module/ComponentApi.md)
+- [工程API](zh-cn/module/ProjectApi.md)
+- [三维场景API](zh-cn/module/SceneApi.md)
+- [系统API](zh-cn/module/SystemApi.md)
