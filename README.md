@@ -1,14 +1,10 @@
-# Myluban web V1.4.1
+# Sdk-APi文档梳理
 ***
-- Myluban web1.4.1功能开发功能点: 
-   - 历程
-   - 相册
-   - 项目看板优化+我的收藏
-- Myluban web1.4.1用到的技术:
-   - [swiper.js](https://www.swiper.com.cn/)  图片轮播
-   - [qrcode.js](http://code.ciaoca.com/javascript/qrcode/)  生成二维码
-   - [clipboard.js](https://clipboardjs.com/)  复制功能
-   - zoom.js图片预览功
-   - [vue-marquee](https://www.npmjs.com/package/vue-marquee)  滚动字幕
-   - [jquery_jplayer](http://www.jplayer.cn/developer-guide.html)  音乐播放
-   - [sortablejs](https://jqueryui.com/sortable/)拖拽排序
+- 全局回调函数: 
+   - 设置创建构件回调函数
+      - 创建构件之后，获取的信息。
+   - 设置选择billboard回调函数
+      - 选择billboard之后返该选择billboard信息。
+   - 设置选择构件回调函数
+      - 选中构件之后返该选中的构件细信息，多用于展示观看更多细节信息。
+
